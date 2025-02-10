@@ -1,1 +1,3 @@
-# learning_docs
+# Learning Docs
+
+This repo is for learning via Documents
